@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Fatemeh-ildari/Fatemeh-ildari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm fatemeh ildari</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
@@ -29,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemeh-ildari&show_icons=true&locale=en" alt="fatemeh-ildari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-ildari&" alt="fatemeh-ildari" /></p>
+
 
